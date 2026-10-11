@@ -1,8 +1,8 @@
 site_name: OrbitFabric Adapter Developer Template
 site_description: Developer guide for building, testing, packaging and releasing OrbitFabric adapters.
-site_url: !ENV [ORBITFABRIC_SITE_URL, 'https://farotech.github.io/orbitfabric-adapter-template/']
-repo_url: !ENV [ORBITFABRIC_REPO_URL, 'https://github.com/FAROTECH/orbitfabric-adapter-template']
-repo_name: !ENV [ORBITFABRIC_REPO_NAME, 'FAROTECH/orbitfabric-adapter-template']
+site_url: !ENV [ORBITFABRIC_SITE_URL, 'https://orbitfabric.github.io/orbitfabric-adapter-template/']
+repo_url: !ENV [ORBITFABRIC_REPO_URL, 'https://github.com/OrbitFabric/orbitfabric-adapter-template']
+repo_name: !ENV [ORBITFABRIC_REPO_NAME, 'OrbitFabric/orbitfabric-adapter-template']
 edit_uri: ""
 
 docs_dir: docs
